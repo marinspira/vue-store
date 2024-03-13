@@ -38,7 +38,7 @@ a {
 
 button {
   background-color: var(--color-red);
-  padding: 15px 100px;
+  padding: 15px 50px;
   font-family: Flame, "Cooper Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 22px;
   color: var(--color-grey);
@@ -51,6 +51,10 @@ button {
   justify-content: space-around;
   align-items: center;
   margin: auto;
+}
+
+li {
+  list-style-type: none;
 }
 
 </style>

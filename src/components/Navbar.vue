@@ -39,5 +39,6 @@ export default {
         color: var(--color-brow);
         font-family: Flame, "Cooper Black", "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-size: 20px;
+        text-transform: uppercase;
     }
 </style>
